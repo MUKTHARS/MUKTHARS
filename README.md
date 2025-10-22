@@ -10,12 +10,12 @@
 ---
 
 ### 🧠 About Me
-AI-focused Software Developer skilled in building **LLM-powered applications, AI agents, and AGI-inspired systems**.  
+AI-focused Software Developer skilled in building **Mobile & Web Applicatoins, LLM-powered applications, AI agents, and AGI-inspired systems**.  
 Strong background in web, mobile, and backend development using **React, Go, FastAPI, LangChain, and Postgres**.  
 I’m passionate about crafting **human-centered AI** that solves real-world challenges in mental health, business, and education.  
 
-💬 Exploring **Organoid Intelligence** & **Cognitive Computing**  
-🌱 Expanding skills in **Google Cloud** & **AI Infrastructure**  
+💬 Exploring **Artificial Intelligence** & **Artificial General Intelligence**  
+🌱 Expanding skills in **AI Agents** & **AI Infrastructure**  
 ⚙️ Building **AI-driven apps** for real human interaction  
 
 ---
@@ -60,23 +60,32 @@ I’m passionate about crafting **human-centered AI** that solves real-world cha
 
 ### 🧑‍💻 Experience
 
-**Software Engineer Trainee — Bannari Amman Institute of Technology**  
+**Mobile Application / Full Stack Developer — Bannari Amman Institute of Technology**  
 *June 2023 – Present (Onsite)*  
 - Built **cross-platform apps** using React Native + Go + MySQL/MongoDB  
 - Designed **AI Agents** with LangChain, Gemini API, and FastAPI  
 - Automated deployment via **GitHub Actions & CI/CD pipelines**  
-- Integrated **Firebase Cloud Messaging** and Google Cloud APIs  
+- Integrated **Firebase Cloud Messaging** and Google Cloud APIs
+
+**Freelance — shoptware.com**  
+*Sep 2024 – Sep 2025 (Onsite)*   
+- Enhanced CRM, Intergrated **Razorpay** payment Gateway
+- Developed scalable mobile App
+
+**Intern — EV Charge Partners**  
+*Sep 2024 – Nov 2024 (Onsite)*   
+- Enhanced CRM, Intergrated **Razorpay** payment Gateway
+- Developed scalable mobile App
 
 **Intern — Virtusa Corporation**  
 *Jan 2023 – Apr 2023 (Remote)*  
 - Created scalable mini-projects using **Angular & Core Java**  
 - Built CRUD-based applications including **Car Management** and **To-Do List**
-
 ---
 
 ### 📚 Projects
 - 🧠 **Healthcare Agent** — AI-driven assistant for mental health (LangChain + Gemini API)  
-- 💼 **Store Owners Agent** — Multi-agent business assistant (FastAPI + MongoDB + Postgres)  
+- 💼 **Store Owners Agent (Database Factory)** — Multi-agent business assistant (FastAPI + MongoDB + Postgres)  
 - 🎓 **Group Discussion App** — React Native + Go for event management & participation  
 - 💡 **Reward Points System** — Go + React Native + SQL mapping rewards to subject marks  
 - 📅 **Events Management System** — Task and event module for admins  
@@ -92,11 +101,6 @@ I’m passionate about crafting **human-centered AI** that solves real-world cha
 
 ---
 
-### 🤝 Volunteering
-- **ASPL (Assistant School Pupil Leader)** — Led school initiatives promoting excellence  
-- **Networking Skill Coordinator** — Conducted workshops for **1,000+ students**
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
