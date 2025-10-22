@@ -1,4 +1,4 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/3f427a76-b43b-4e14-acaa-8c2d8731f1a2" /><h1 align="center">Hi 👋, I'm Mohamed Mukthar S</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Mukthar S</h1>
 <h3 align="center">AI-focused Software Developer | LLM, Go, React, and Cloud Enthusiast</h3>
 
 <p align="center">
@@ -26,7 +26,7 @@ I’m passionate about crafting **human-centered AI** that solves real-world cha
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/chatgpt" alt="ChatGPT" title="ChatGPT" />
   <img src="https://img.icons8.com/color/48/000000/google-logo.png" alt="Gemini AI" title="Gemini AI" />
-  <!-- <img src="https://img.icons8.com/color/48/000000/claude.png" alt="Claude AI" title="Claude" /> -->
+  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/3f427a76-b43b-4e14-acaa-8c2d8731f1a2" />
   <img src="https://img.icons8.com/color/48/000000/deepseek.png" alt="DeepSeek" title="DeepSeek" />
   <!-- <img src="https://img.icons8.com/color/48/000000/chainlink.png" alt="LangChain" title="LangChain" /> -->
   <img src="https://img.icons8.com/color/48/000000/vercel.png" alt="Vercel" title="Vercel" />
