@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:mohamedmukthar50@gmail.com"><img src="https://img.shields.io/badge/-mohamedmukthar50@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"></a>
-  <a href="https://github.com/MUKTHARS"><img src="https://img.shields.io/github/followers/MUKTHARS?label=Follow&style=social"></a>
+  <!-- <a href="https://github.com/MUKTHARS"><img src="https://img.shields.io/github/followers/MUKTHARS?label=Follow&style=social"></a> -->
   <a href="https://www.linkedin.com/in/mohamed-mukthar-s-001a051bb/"><img src="https://img.shields.io/badge/-Mohamed%20Mukthar%20S-blue?style=flat&logo=Linkedin&logoColor=white"></a>
 </p>
 
