@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Mukthar S</h1>
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/3f427a76-b43b-4e14-acaa-8c2d8731f1a2" /><h1 align="center">Hi 👋, I'm Mohamed Mukthar S</h1>
 <h3 align="center">AI-focused Software Developer | LLM, Go, React, and Cloud Enthusiast</h3>
 
 <p align="center">
@@ -24,16 +24,17 @@ I’m passionate about crafting **human-centered AI** that solves real-world cha
 
 #### 🧠 AI Ecosystem
 <p align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/DeepSeek-A020F0?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-00C853?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-3f3d56?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lovable%20AI-ff4081?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bolt%20AI-0096FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.icons8.com/color/48/000000/chatgpt" alt="ChatGPT" title="ChatGPT" />
+  <img src="https://img.icons8.com/color/48/000000/google-logo.png" alt="Gemini AI" title="Gemini AI" />
+  <!-- <img src="https://img.icons8.com/color/48/000000/claude.png" alt="Claude AI" title="Claude" /> -->
+  <img src="https://img.icons8.com/color/48/000000/deepseek.png" alt="DeepSeek" title="DeepSeek" />
+  <!-- <img src="https://img.icons8.com/color/48/000000/chainlink.png" alt="LangChain" title="LangChain" /> -->
+  <img src="https://img.icons8.com/color/48/000000/vercel.png" alt="Vercel" title="Vercel" />
+  <!-- <img src="https://img.icons8.com/color/48/000000/render.png" alt="Render" title="Render" /> -->
+  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="Lovable AI" title="Lovable AI" />
+  <!-- <img src="https://img.icons8.com/color/48/000000/bolt.png" alt="Bolt AI" title="Bolt AI" /> -->
 </p>
+
 
 #### 💻 Languages
 <p align="left">
