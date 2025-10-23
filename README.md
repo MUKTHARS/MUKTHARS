@@ -59,6 +59,20 @@ I’m passionate about crafting **human-centered AI** that solves real-world cha
 
 ---
 
+
+
+### 📊 GitHub Stats
+
+<p align="left">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUKTHARS&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MUKTHARS&show_icons=true&theme=tokyonight" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKTHARS&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
 ### 🧑‍💻 Experience
 
 **Mobile Application / Full Stack Developer — Bannari Amman Institute of Technology**  
@@ -99,19 +113,6 @@ I’m passionate about crafting **human-centered AI** that solves real-world cha
 - 🥇 **Smart India Hackathon 2023 Winner** — *Human Action Recognition using MATLAB Simulink*  
 - 📜 **Python for Data Analysis, Data Science & ML with Pandas** — Completed (2020)  
 - ☁️ **Google Cloud Fundamentals: Core Infrastructure** — Planned  
-
----
-
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MUKTHARS&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUKTHARS&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKTHARS&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
