@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mohamed Mukthar S</h1>
-<h3 align="center">AI-focused Software Developer | LLM, Go, React, and Cloud Enthusiast</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hi , I'm Mohamed Mukthar S
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=*AI-focused+Software+Developer;LLM+Enthusiast;Go+Developer;React+Enthusiast;Tech+Adopter" />
+</h3>
 
 <p align="center">
   <a href="mailto:mohamedmukthar50@gmail.com"><img src="https://img.shields.io/badge/-mohamedmukthar50@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"></a>
@@ -25,38 +31,48 @@ I’m passionate about crafting **human-centered AI** that solves real-world cha
 ### 🚀 Tech Stack
 
 #### 🧠 AI Ecosystem
-<p align="left">
+<p align="center">
   <img src="https://img.icons8.com/color/48/000000/chatgpt" alt="ChatGPT" title="ChatGPT" />
   <img src="https://img.icons8.com/color/48/000000/google-logo.png" alt="Gemini AI" title="Gemini AI" />
   <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/3f427a76-b43b-4e14-acaa-8c2d8731f1a2" />
   <img src="https://img.icons8.com/color/48/000000/deepseek.png" alt="DeepSeek" title="DeepSeek" />
-  <!-- <img src="https://img.icons8.com/color/48/000000/chainlink.png" alt="LangChain" title="LangChain" /> -->
   <img src="https://img.icons8.com/color/48/000000/vercel.png" alt="Vercel" title="Vercel" />
-  <!-- <img src="https://img.icons8.com/color/48/000000/render.png" alt="Render" title="Render" /> -->
   <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" alt="Lovable AI" title="Lovable AI" />
-  <!-- <img src="https://img.icons8.com/color/48/000000/bolt.png" alt="Bolt AI" title="Bolt AI" /> -->
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&pause=1000&color=22F7B5&center=true&vCenter=true&width=500&lines=ChatGPT+%7C+Gemini+AI+%7C+DeepSeek+%7C+Vercel+%7C+Lovable+AI" />
 </p>
 
-
 #### 💻 Languages
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,c,python,js,react,go,dart,php" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=11&pause=1500&color=22D3EE&center=true&vCenter=true&width=600&lines=HTML+%7C+CSS+%7C+C+%7C+Python+%7C+JavaScript+%7C+React+%7C+Go+%7C+Dart+%7C+PHP" />
 </p>
 
 #### 🧩 Frameworks / Libraries
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,angular,nodejs,fastapi,vite,flutter" />
-  
+</p>
+<p align="center">
+  🌀 <em>React • Angular • Node.js • FastAPI • Vite • Flutter</em> 🌀
 </p>
 
 #### 🗄️ Databases
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
+</p>
+<p align="center">
+  💾 <em>MySQL • PostgreSQL • MongoDB • Firebase</em> 💾
 </p>
 
 #### ☁️ Tools & DevOps
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,npm,androidstudio,postman,docker,vercel,gradle" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&pause=2000&color=F700FF&center=true&vCenter=true&width=700&lines=VSCode+%7C+Git+%7C+GitHub+%7C+NPM+%7C+Android+Studio+%7C+Postman+%7C+Docker+%7C+Vercel+%7C+Gradle" />
 </p>
 
 ---
