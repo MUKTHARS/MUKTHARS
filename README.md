@@ -94,7 +94,7 @@ I’m passionate about crafting **human-centered AI** that solves real-world cha
 ### 🧑‍💻 Experience
 
 **Mobile Application / Full Stack Developer — Bannari Amman Institute of Technology**  
-*June 2023 – Present (Onsite)*  
+*June 2023 – Nov 2025 (Onsite)*  
 - Built **cross-platform apps** using React Native + Go + MySQL/MongoDB  
 - Designed **AI Agents** with LangChain, Gemini API, and FastAPI  
 - Automated deployment via **GitHub Actions & CI/CD pipelines**  
