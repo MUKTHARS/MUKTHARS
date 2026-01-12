@@ -77,30 +77,6 @@ I’m passionate about crafting **human-centered AI** that solves real-world cha
 
 ---
 
-
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=MUKTHARS&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="170"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=MUKTHARS&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKTHARS&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-  />
-</p>
-
-
----
-
 ### 🧑‍💻 Experience
 
 **Mobile Application / Full Stack Developer — Bannari Amman Institute of Technology**  
